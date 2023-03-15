@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    }
+    h1.a{
+        width:100%;
+        height: auto;
+        text-align: center;
+        font-size: 50px;
+    }
+    .background{
+    width : 1000px;
+    height: 500px;
+    background-image: url("sofa.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 30px;
+    text-align: left;
+    }
+  
+.content{
+    width: 100%;
+    height:30px;
+    transform: translateY();
+    font-family:Arial, Helvetica, sans-serif;
+    position: absolute;
+    text-align: center;
+}
+.content p{
+    width : 100%;
+    font-size: 30px;
+}

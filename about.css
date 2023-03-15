@@ -1,0 +1,11 @@
+*{
+margin: 0;
+padding: 0;
+}
+.about us{
+width : 100%;
+height: 100vh;
+background-image: url("living hall.jpg");
+font-size: 30px;
+text-align: left;
+}
